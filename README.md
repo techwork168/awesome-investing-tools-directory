@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +272 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -13,7 +13,7 @@
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
 | [👥 Ownership & Holders](#ownership-and-holders) | 12 |
 | [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
-| [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
+| [🔎 Screening & Discovery](#screening-and-discovery) | 88 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
 | [⚙️ Options & Derivatives](#options-and-derivatives) | 4 |
 | [💹 Trading & Brokerage](#trading-and-brokerage) | 17 |
@@ -168,7 +168,7 @@
 
 ---
 
-### Screening & Discovery (87)
+### Screening & Discovery (88)
 
 - [Alpha Spread](https://www.alphaspread.com) - Stock-valuation platform centered on intrinsic value. Combines DCF and relative valuation into a scenario range (bear/base/bull), adds Wall Street...
 - [AmiBroker](https://www.amibroker.com) - Windows desktop platform for technical/system research with a fast AFL scripting language, portfolio-level backtester, walk-forward testing, Monte Carlo, and...
@@ -237,6 +237,7 @@
 - [Stockopedia](https://www.stockopedia.com) - Stockopedia is a stock research and screening platform best known for its StockRanksTM ratings and broad coverage across the UK, US, Europe, and Asia-Pacific....
 - [Strike.Market](https://strike.market) - Strike.Market is an alternative-data-focused equity research site that combines traditional fundamentals with unique signals like web traffic, app rankings, job...
 - [Sure Dividend](https://www.suredividend.com) - Sure Dividend is a dividend-focused research publisher offering a range of newsletters and its flagship Sure Analysis Research Database. The service caters to...
+- [Tapetide](https://tapetide.com) - AI-first stock research and screening platform for Indian markets (NSE & BSE). Ask any question in natural language and get instant answers backed by financials, a 326-ratio fundamental + technical screener, FII/DII institutional flows, and a public MCP server for AI agents. Free, with no paywall on core data.
 - [TC2000](https://www.tc2000.com) - A long-standing charting, screening, and trading platform with integrated brokerage. TC2000 is designed for active traders who want real-time scanning,...
 - [The Motley Fool](https://www.fool.com) - A long-standing publisher and stock-picking service with both free content and premium memberships. The flagship Stock Advisor offers two new recommendations...
 - [Tickertape](https://www.tickertape.in) - India-focused research and portfolio platform for stocks, mutual funds, and ETFs. It offers end-of-day screening data, linked broker integration for unified...
